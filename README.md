@@ -1,4 +1,4 @@
-- 🇮🇳 Hi, I’m <h6><b>@Naveen4703</b></h6>
+- 🇮🇳 Hi, I’m <b>@Naveen4703</b>
 - 👀 I’m interested in #Cyber Security stuff
 - 🌱 I’m currently learning #MERN Stack 
 - ⚠️ Specialist in XSS : Cross Site Scripting
